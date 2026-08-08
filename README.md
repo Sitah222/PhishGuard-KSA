@@ -76,3 +76,24 @@ The file contains the network topology and configurations used to simulate and t
 
 Bachelor's Degree in Information Technology  
 Princess Nourah bint Abdulrahman University
+## Project Demonstration
+
+### 1. Network Topology
+The LAN topology was designed and implemented using Cisco Packet Tracer.
+
+![Network Topology](network-topology.jpg.jpg)
+
+### 2. Captive Portal
+The simulated network redirects the user to the PhishGuard portal before accessing network resources.
+
+![Captive Portal](captive-portal.jpg)
+
+### 3. DNS / Blocked Domain Test
+Testing unauthorized domain access demonstrates the DNS filtering behavior within the simulated network.
+
+![Blocked Domain Test](blocked-domain-test.jpg)
+
+### 4. Security Warning Page
+A security warning page is displayed to alert users when suspicious or phishing-related access is detected.
+
+![Security Warning Page](security-warning.jpg)
